@@ -1,0 +1,2 @@
+[main] hello from semihosting
+[main] hello from semihosting
